@@ -1,0 +1,56 @@
+{
+  "background_color": "#ffffff",
+  "description": "Colouring Book 4 Kids on Windows is a delightful artistic adventure, offering six vibrant colors and four charming images for kids to bring to life with their creativity. Let young imaginations soar as they choose colors and add a splash of joy to adorable illustrations in this interactive and fun coloring experience.!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Colouring Book 4 Kids",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Colouring Book 4 Kids",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Colouring Book 4 Kids",
+      "url": "",
+      "description": "Colouring Book 4 Kids on Windows is a delightful artistic adventure, offering six vibrant colors and four charming images for kids to bring to life with their creativity. Let young imaginations soar as they choose colors and add a splash of joy to adorable illustrations in this interactive and fun coloring experience.!"
+    }
+  ]
+}
